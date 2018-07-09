@@ -20,7 +20,7 @@ const facts = [
 ];
 
   function johnLennonFacts(facts) {
-  while (counter< 4) {
+  while (counter< facts.length) {
     facts + "!!!";
   }
   return facts;  
