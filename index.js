@@ -29,7 +29,7 @@ const facts = [
   return facts;  
 }
 
-  function iLoveTheBeatles(x) {
+  function iLoveTheBeatles(x<18) {
   var array = [];
   do {
     x = array.push("I love the Beatles!");
