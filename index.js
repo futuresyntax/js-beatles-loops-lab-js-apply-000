@@ -34,7 +34,7 @@ const facts = [
   do {
     x = array.push("I love the Beatles!");
     x++;
-  } while (x < 17); {
+  } while (x < 15); {
     
   }
   return array;
