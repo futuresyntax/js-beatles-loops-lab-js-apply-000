@@ -23,7 +23,7 @@ const facts = [
   function johnLennonFacts(facts) {
     let counter = 0
   while (counter < facts.length) {
-    facts[i] + "!!!";
+    facts[counter] + "!!!";
     counter++
   }
   return facts;  
