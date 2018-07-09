@@ -40,4 +40,4 @@ const facts = [
   }
   return array;
 }
-if x=18 then array = ["I love the Beatles!"]
+if x = 18 then array = ["I love the Beatles!"]
