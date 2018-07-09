@@ -21,6 +21,7 @@ const facts = [
 
 
   function johnLennonFacts(facts) {
+    counter = 0
   while (counter< facts.length) {
     facts + "!!!";
   }
