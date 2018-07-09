@@ -35,7 +35,7 @@ const facts = [
     x = array.push("I love the Beatles!");
     x++;
     console.log("x = "+ x)
-  } while (x < 8); {
+  } while (x < 9); {
     
   }
   return array;
