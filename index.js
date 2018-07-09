@@ -24,6 +24,7 @@ const facts = [
     counter = 0
   while (counter < facts.length) {
     facts + "!!!";
+    counter++
   }
   return facts;  
 }
