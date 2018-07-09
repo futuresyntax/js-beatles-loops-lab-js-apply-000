@@ -22,7 +22,7 @@ const facts = [
 
   function johnLennonFacts(facts) {
     counter = 0
-  while (counter< facts.length) {
+  while (counter + 1 < facts.length) {
     facts + "!!!";
   }
   return facts;  
