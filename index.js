@@ -32,7 +32,7 @@ const facts = [
   function iLoveTheBeatles(x) {
   var array = [];
   do {
-    x = array.push("I love the Beatles!");
+    array.push("I love the Beatles!");
     x++;
     console.log("x = "+ x)
   } while (x < 9); {
