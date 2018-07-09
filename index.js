@@ -29,4 +29,13 @@ const facts = [
   return facts;  
 }
 
-  
+  function iLoveTheBeatles(x) {
+  var array = [];
+  do {
+    x = array.push("I love the Beatles!");
+    x++;
+  } while (x < 17); {
+    
+  }
+  return array;
+}
